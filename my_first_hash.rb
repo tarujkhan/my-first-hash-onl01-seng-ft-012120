@@ -1,5 +1,5 @@
 def my_hash
-my_hash = ["books", "pencils", 'pens', "paper"]
+my_hash = ["books", "pencils", "pens", "paper"]
 
  
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
@@ -10,8 +10,8 @@ end
 
 def shipping_manifest
   the_manifest = {
-   "white bone corset" => 5
-   "porcelain vase" => 2
+   "white bone corset" => 5,
+   "porcelain vase" => 2,
    "oil painting" => 3
   }
   # set a variable called `the_manifest`, equal to a hash
