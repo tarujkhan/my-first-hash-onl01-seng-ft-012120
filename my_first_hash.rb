@@ -1,5 +1,10 @@
 def my_hash(your_hash)
-your_hash = ["books", "pencils", "pens", "paper"]
+your_hash = {
+  "books" => 3, 
+  "pencils" => 3, 
+  "pens" => 2, 
+  "paper" => 1
+}
 
  
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
