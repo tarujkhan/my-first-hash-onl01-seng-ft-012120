@@ -5,11 +5,7 @@ your_hash = {
   "pens" => 2, 
   "paper" => 1
 }
-
- 
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-
-  
 end
 
 
