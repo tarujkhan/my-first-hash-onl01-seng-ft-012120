@@ -1,5 +1,5 @@
-def my_hash(your_hash)
-your_hash = {
+def my_hash
+my_hash = {
   "books" => 3, 
   "pencils" => 3, 
   "pens" => 2, 
