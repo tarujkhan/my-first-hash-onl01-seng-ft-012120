@@ -1,11 +1,11 @@
-#def my_hash
-#my_hash = ["books", "pencils", "pens", "paper"]
+def my_hash(your_hash)
+your_hash = ["books", "pencils", "pens", "paper"]
 
  
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
 
   
-#end
+end
 
 
 def shipping_manifest
